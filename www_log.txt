@@ -1,1 +1,0 @@
-VNC设置参数为： vncserver -geometry 1300x768
